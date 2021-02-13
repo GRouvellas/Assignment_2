@@ -1,0 +1,8 @@
+grouv\repository\HibernateUtil.class
+grouv\entity\Trainer.class
+grouv\repository\TrainerRepo.class
+grouv\controller\HomeController.class
+grouv\service\TrainerService.class
+grouv\controller\TrainerController.class
+grouv\service\HomeService.class
+grouv\config\DatabaseConfig.class
